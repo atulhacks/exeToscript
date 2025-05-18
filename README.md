@@ -42,7 +42,7 @@ python exe_converter.py
 
 ### 🚀 My Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,js,powershell,bash,git,github,linux,docker,visualstudio&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,powershell,bash,git,github,linux,docker,visualstudio&theme=dark" />
 </p>
 
 ---
